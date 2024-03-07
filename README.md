@@ -1,4 +1,4 @@
-Computer and Informatics Engineering student at the University of Aveiro.
+Computer and Informatics Engineering student. Currently studying at the University of Aveiro.
 
 <!---
 RevengeRL1/RevengeRL1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
